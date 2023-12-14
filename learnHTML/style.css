@@ -1,0 +1,24 @@
+html{
+    color: #0a0116;
+    background-color:rgb(211, 224, 240);
+    background-image: url("./nata.jpg");
+    background-repeat: no-repeat;
+    height: 200%;
+    background-position: center;
+    background-size: auto;
+    font-weight: 600;
+    font-size: medium;
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:rgba(8, 8, 99, 0.904);
+    text-decoration:underline;
+}
+.titulo-principal{
+    color: green;
+}
+#normal{
+    text-decoration: none;
+}
